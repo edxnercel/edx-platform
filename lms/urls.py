@@ -718,3 +718,7 @@ urlpatterns += (
     url(r'^404$', handler404),
     url(r'^500$', handler500),
 )
+#LMS school page url
+urlpatterns += (
+    url(r'^go_to_school$', 'student.views.go_to_school'),
+)

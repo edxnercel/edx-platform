@@ -1,3 +1,4 @@
+#encoding=utf-8
 """
 Student Views
 """
@@ -170,7 +171,8 @@ def index(request, extra_context=None, user=AnonymousUser()):
     context = {'courses': courses}
 
     context.update(extra_context)
-    return render_to_response('index.html', context)
+    #return render_to_response('index.html', context)
+    return render_to_response('nercel-templates/col-index.html', context)
 
 
 def process_survey_link(survey_link, user):
@@ -663,7 +665,8 @@ def dashboard(request):
         'ccx_membership_triplets': ccx_membership_triplets,
     }
 
-    return render_to_response('dashboard.html', context)
+    #return render_to_response('dashboard.html', context)
+    return render_to_response('nercel-templates/col-mycourse.html', context)
 
 
 def _create_recent_enrollment_message(course_enrollment_pairs, course_modes):
@@ -2219,3 +2222,11 @@ def change_email_settings(request):
         track.views.server_track(request, "change-email-settings", {"receive_emails": "no", "course": course_id}, page='dashboard')
 
     return JsonResponse({"success": True})
+#go to static page--school
+@ensure_csrf_cookie
+def go_to_school(request):
+    user = request.user
+    context = {
+        'user': user,
+    }
+    return render_to_response('nercel-templates/col-school.html', context)

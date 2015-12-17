@@ -133,9 +133,14 @@ def courses(request):
             courses_list = sort_by_start_date(courses_list)
         else:
             courses_list = sort_by_announcement(courses_list)
-
+    '''
     return render_to_response(
         "courseware/courses.html",
+        {'courses': courses_list, 'course_discovery_meanings': course_discovery_meanings}
+    )
+    '''
+    return render_to_response(
+        "nercel-templates/col-course-list.html",
         {'courses': courses_list, 'course_discovery_meanings': course_discovery_meanings}
     )
 
@@ -884,8 +889,32 @@ def course_about(request, course_id):
 
         # get prerequisite courses display names
         pre_requisite_courses = get_prerequisite_courses_display(course)
-
+        '''
         return render_to_response('courseware/course_about.html', {
+            'course': course,
+            'staff_access': staff_access,
+            'studio_url': studio_url,
+            'registered': registered,
+            'course_target': course_target,
+            'is_cosmetic_price_enabled': settings.FEATURES.get('ENABLE_COSMETIC_DISPLAY_PRICE'),
+            'course_price': course_price,
+            'in_cart': in_cart,
+            'reg_then_add_to_cart_link': reg_then_add_to_cart_link,
+            'show_courseware_link': show_courseware_link,
+            'is_course_full': is_course_full,
+            'can_enroll': can_enroll,
+            'invitation_only': invitation_only,
+            'active_reg_button': active_reg_button,
+            'is_shib_course': is_shib_course,
+            # We do not want to display the internal courseware header, which is used when the course is found in the
+            # context. This value is therefor explicitly set to render the appropriate header.
+            'disable_courseware_header': True,
+            'can_add_course_to_cart': can_add_course_to_cart,
+            'cart_link': reverse('shoppingcart.views.show_cart'),
+            'pre_requisite_courses': pre_requisite_courses
+        })
+        '''
+        return render_to_response('nercel-templates/col-registerCourse.html', {
             'course': course,
             'staff_access': staff_access,
             'studio_url': studio_url,
