@@ -1,3 +1,4 @@
+#encoding=utf-8
 from django.conf import settings
 from django.conf.urls import patterns, include, url
 
@@ -199,4 +200,8 @@ handler500 = 'contentstore.views.render_500'
 urlpatterns += (
     url(r'404', handler404),
     url(r'500', handler500),
+)
+#ajax上传视频
+urlpatterns += (
+    url(r'^ajaxUploadVideo$',"contentstore.views.ajaxUploadVideo",name="ajaxVideo"),
 )

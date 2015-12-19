@@ -2,176 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fefa7e4e-3d6f-4a2c-be6c-71606ba9dce9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/baoming.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/bbs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/bbs_chatgreen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/bbs_chatgrey.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/bbs_create.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/bbs_drop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/bbs_fgrey.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/bbs_fyellow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/bbs_now.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/bbs_numgreen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/bbs_numgrey.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/bbs_qgreen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/bbs_qgrey.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/bbs_qwhite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/bbs_searchbtn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/bbs_sgrey.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/bbs_srarchbtn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/bbs_swhite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/col_infor_rili.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/col_infro.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/col_infro_teacher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/col_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/col_logo_cube.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/col_message_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/col_openeDX_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/col_pwd_forget_button1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/col_pwd_forget_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/col_pwd_forget_input_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/col_register_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/col_search_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/col_shool_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/col_slogan_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/col_view_course_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/col_weibo_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/col_weixin_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/col_youlishu.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/course_code.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/course_content1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/course_content2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/course_details.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/course_fengmian.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/course_infor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/course_infor2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/course_jianjie.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/course_kaiketian.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/course_opentime.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/course_pic.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/course_population.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/course_question.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/course_requirement.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/course_sanjiao.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/course_studying.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/course_time.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/course_video.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/course_xiangguankecgeng.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/course_zhankai.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/dropdown.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/junior_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/kaikeshijian.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/login_background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/login_btn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/login_close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/login_code.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/login_gouxuan.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/login_mailbox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/login_qq.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/login_weibo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/login_weixin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/luntan.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/luntang.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/math_play.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/message_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/mid_pic.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/morecourse.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/mycourse.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/mycourse_add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/mycourse_allcourse.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/mycourse_bigtouxiang.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/mycourse_close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/mycourse_dropdown.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/mycourse_finished.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/mycourse_mathplay.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/mycourse_midpic.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/mycourse_msg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/mycourse_mynote.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/mycourse_myplan.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/mycourse_sanjiao.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/mycourse_smalltouxiang.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/mycourse_studying.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/mycourse_ziliao.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/openeDX_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/primary_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/pwd_reset_success_email.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/question.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/scroll1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/scroll2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/scroll3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/scroll4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/search.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/senior_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/slogan.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/teacher_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/teacher_picture.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/video_jindu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/view_course.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/weibo_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/weiji_li_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/weiji_tianjia.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/weixin_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/wiki.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/wiki_li_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/wiki_li_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/wiki_li_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/images/nercel-images/wiki_now.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/js/nercel-js/LoginBox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/js/nercel-js/ScrollUtil.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/templates/nercel-templates/col-course-list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/templates/nercel-templates/col-index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/templates/nercel-templates/col-mycourse.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/templates/nercel-templates/col-register.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/templates/nercel-templates/col-registerCourse.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/templates/nercel-templates/col-school.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/css/nercel-css/col_bottom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/css/nercel-css/col_copyright.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/css/nercel-css/col_head.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/css/nercel-css/col_home.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/css/nercel-css/col_index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/css/nercel-css/col_mycourse.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/css/nercel-css/col_register.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/css/nercel-css/col_register_course.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/css/nercel-css/col_school.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/templates/footer-nercel.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/static/js/nercel-js/jquery-1.8.3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lms/templates/navigation-nercel.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/html/announcement.yaml" afterPath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/html/announcement.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/html/anon_user_id.yaml" afterPath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/html/anon_user_id.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/problem/blank_common.yaml" afterPath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/problem/blank_common.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/problem/checkboxes_response.yaml" afterPath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/problem/checkboxes_response.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/problem/checkboxes_response_hint.yaml" afterPath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/problem/checkboxes_response_hint.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/problem/circuitschematic.yaml" afterPath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/problem/circuitschematic.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/problem/customgrader.yaml" afterPath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/problem/customgrader.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/problem/drag_and_drop.yaml" afterPath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/problem/drag_and_drop.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cms/templates/widgets/footer.html" afterPath="$PROJECT_DIR$/cms/templates/widgets/footer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/problem/formularesponse.yaml" afterPath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/problem/formularesponse.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cms/templates/widgets/header.html" afterPath="$PROJECT_DIR$/cms/templates/widgets/header.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cms/templates/howitworks.html" afterPath="$PROJECT_DIR$/cms/templates/howitworks.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/html/iframe.yaml" afterPath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/html/iframe.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/html/image_modal.yaml" afterPath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/html/image_modal.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/problem/imageresponse.yaml" afterPath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/problem/imageresponse.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/problem/jsinput_response.yaml" afterPath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/problem/jsinput_response.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/html/latex_html.yaml" afterPath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/html/latex_html.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/problem/latex_problem.yaml" afterPath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/problem/latex_problem.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lms/templates/main.html" afterPath="$PROJECT_DIR$/lms/templates/main.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/problem/multiplechoice.yaml" afterPath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/problem/multiplechoice.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/problem/multiplechoice_hint.yaml" afterPath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/problem/multiplechoice_hint.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/problem/numericalresponse.yaml" afterPath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/problem/numericalresponse.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/problem/numericalresponse_hint.yaml" afterPath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/problem/numericalresponse_hint.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/problem/optionresponse.yaml" afterPath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/problem/optionresponse.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/problem/optionresponse_hint.yaml" afterPath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/problem/optionresponse_hint.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/about/overview.yaml" afterPath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/about/overview.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/problem/problem_with_hint.yaml" afterPath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/problem/problem_with_hint.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/problem/problem_with_hint_in_latex.yaml" afterPath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/problem/problem_with_hint_in_latex.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/html/raw.yaml" afterPath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/html/raw.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/problem/string_response.yaml" afterPath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/problem/string_response.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/problem/string_response_hint.yaml" afterPath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/problem/string_response_hint.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lms/urls.py" afterPath="$PROJECT_DIR$/lms/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/djangoapps/student/views.py" afterPath="$PROJECT_DIR$/common/djangoapps/student/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lms/djangoapps/courseware/views.py" afterPath="$PROJECT_DIR$/lms/djangoapps/courseware/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cms/templates/container.html" afterPath="$PROJECT_DIR$/cms/templates/container.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cms/templates/js/video/transcripts/metadata-videolist-entry.underscore" afterPath="$PROJECT_DIR$/cms/templates/js/video/transcripts/metadata-videolist-entry.underscore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cms/djangoapps/contentstore/views/public.py" afterPath="$PROJECT_DIR$/cms/djangoapps/contentstore/views/public.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cms/urls.py" afterPath="$PROJECT_DIR$/cms/urls.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/html/zooming_image.yaml" afterPath="$PROJECT_DIR$/common/lib/xmodule/xmodule/templates/html/zooming_image.yaml" />
     </list>
     <ignored path="edx-platform.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -185,7 +20,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/edx-platform$CMS.coverage" NAME="CMS Coverage Results" MODIFIED="1450344028443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/edx/app/edxapp/edx-platform" />
+    <SUITE FILE_PATH="coverage/edx-platform$CMS.coverage" NAME="CMS Coverage Results" MODIFIED="1450506448131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/edx/app/edxapp/edx-platform" />
     <SUITE FILE_PATH="coverage/edx-platform$LMS.coverage" NAME="LMS Coverage Results" MODIFIED="1450341884414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/edx/app/edxapp/edx-platform" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -196,7 +31,50 @@
     <favorites_list name="edx-platform" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="public.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cms/djangoapps/contentstore/views/public.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-46.75">
+              <caret line="150" column="22" selection-start-line="150" selection-start-column="22" selection-end-line="150" selection-end-column="22" />
+              <folding>
+                <element signature="e#37#96#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="metadata-videolist-entry.underscore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cms/static/coffee/fixtures/video/transcripts/metadata-videolist-entry.underscore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.77922076">
+              <caret line="28" column="107" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="107" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="metadata-videolist-entry.underscore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cms/static/templates/video/transcripts/metadata-videolist-entry.underscore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="23" column="126" selection-start-line="23" selection-start-column="126" selection-end-line="23" selection-end-column="126" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="container.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cms/templates/container.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-35.333332">
+              <caret line="175" column="37" selection-start-line="175" selection-start-column="28" selection-end-line="175" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -237,6 +115,11 @@
         <option value="$PROJECT_DIR$/cms/templates/widgets/header.html" />
         <option value="$PROJECT_DIR$/cms/templates/widgets/footer.html" />
         <option value="$PROJECT_DIR$/cms/templates/howitworks.html" />
+        <option value="$PROJECT_DIR$/cms/urls.py" />
+        <option value="$PROJECT_DIR$/cms/static/templates/video/transcripts/metadata-videolist-entry.underscore" />
+        <option value="$PROJECT_DIR$/cms/djangoapps/contentstore/views/public.py" />
+        <option value="$PROJECT_DIR$/cms/templates/container.html" />
+        <option value="$PROJECT_DIR$/cms/static/coffee/fixtures/video/transcripts/metadata-videolist-entry.underscore" />
       </list>
     </option>
   </component>
@@ -248,10 +131,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="210" />
-    <option name="y" value="115" />
+    <option name="x" value="111" />
+    <option name="y" value="57" />
     <option name="width" value="1171" />
-    <option name="height" value="768" />
+    <option name="height" value="846" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -276,6 +159,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -297,12 +181,11 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/codeCompare/remoteCode_xuxiao19910803/edx-platform" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
@@ -591,7 +474,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="210" y="115" width="1171" height="768" extended-state="0" />
+    <frame x="111" y="57" width="1171" height="846" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -601,12 +484,12 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32848838" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35246995" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18189582" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.07377778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24856322" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42210385" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.004310345" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2436751" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -632,66 +515,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lms/static/css/nercel-css/col_copyright.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35665914">
-          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lms/static/css/nercel-css/col_index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9322799">
-          <caret line="494" column="0" selection-start-line="494" selection-start-column="0" selection-end-line="494" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lms/static/css/nercel-css/col_mycourse.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9322799">
-          <caret line="496" column="0" selection-start-line="496" selection-start-column="0" selection-end-line="496" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lms/static/css/nercel-css/col_school.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9322799">
-          <caret line="130" column="1" selection-start-line="130" selection-start-column="1" selection-end-line="130" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lms/static/css/nercel-css/col_register.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8306998">
-          <caret line="186" column="1" selection-start-line="186" selection-start-column="1" selection-end-line="186" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lms/static/css/nercel-css/col_home.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6433409">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lms/djangoapps/branding/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9429348">
-          <caret line="115" column="35" selection-start-line="115" selection-start-column="28" selection-end-line="115" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lms/static/css/nercel-css/col_register_course.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.397351">
-          <caret line="358" column="1" selection-start-line="358" selection-start-column="1" selection-end-line="358" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lms/templates/nercel-templates/col-register.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4988345">
@@ -885,9 +720,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="140" column="7" selection-start-line="140" selection-start-column="7" selection-end-line="140" selection-end-column="7" />
-          <folding>
-            <element signature="e#36#50#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -895,7 +727,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="24" column="48" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -903,9 +734,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="513" column="78" selection-start-line="513" selection-start-column="55" selection-end-line="513" selection-end-column="78" />
-          <folding>
-            <element signature="e#38#53#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -913,7 +741,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="33" column="69" selection-start-line="33" selection-start-column="60" selection-end-line="33" selection-end-column="69" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -921,7 +748,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.531401">
           <caret line="85" column="79" selection-start-line="76" selection-start-column="8" selection-end-line="85" selection-end-column="79" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -929,7 +755,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.30917874">
           <caret line="65" column="67" selection-start-line="65" selection-start-column="46" selection-end-line="65" selection-end-column="67" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -937,11 +762,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.5217391">
           <caret line="183" column="85" selection-start-line="183" selection-start-column="85" selection-end-line="183" selection-end-column="85" />
-          <folding>
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#div#1;n#div#1;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -949,7 +769,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.41450778">
           <caret line="16" column="51" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="51" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -957,7 +776,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -965,9 +783,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.31304348">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#51#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -975,10 +790,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6953125">
           <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -986,7 +797,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5818815">
           <caret line="236" column="22" selection-start-line="236" selection-start-column="22" selection-end-line="236" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -994,7 +804,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.2369338">
           <caret line="140" column="47" selection-start-line="140" selection-start-column="47" selection-end-line="140" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1002,25 +811,82 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.453125">
           <caret line="71" column="36" selection-start-line="71" selection-start-column="30" selection-end-line="71" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cms/djangoapps/contentstore/views/public.py">
+    <entry file="file://$PROJECT_DIR$/common/lib/xmodule/xmodule/js/fixtures/video_html5.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.81578946">
-          <caret line="70" column="45" selection-start-line="70" selection-start-column="35" selection-end-line="70" selection-end-column="45" />
-          <folding />
+        <state vertical-scroll-proportion="0.13140312">
+          <caret line="6" column="826" selection-start-line="6" selection-start-column="826" selection-end-line="6" selection-end-column="826" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cms/djangoapps/contentstore/features/video_editor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35280898">
+          <caret line="144" column="31" selection-start-line="144" selection-start-column="31" selection-end-line="144" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cms/static/templates/video/transcripts/file-upload.underscore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="66" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm40/system/remote_sources/-250403231/-237207499/django/core/urlresolvers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.420792">
+          <caret line="117" column="39" selection-start-line="117" selection-start-column="39" selection-end-line="117" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cms/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18867925">
-          <caret line="11" column="60" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
+        <state vertical-scroll-proportion="-9.678572">
+          <caret line="205" column="64" selection-start-line="205" selection-start-column="49" selection-end-line="205" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm40/system/remote_sources/-250403231/485043227/cms/djangoapps/contentstore/views/public.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cms/djangoapps/contentstore/views/public.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-46.75">
+          <caret line="150" column="22" selection-start-line="150" selection-start-column="22" selection-end-line="150" selection-end-column="22" />
           <folding>
-            <element signature="e#0#32#0" expanded="true" />
+            <element signature="e#37#96#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cms/templates/container.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-35.333332">
+          <caret line="175" column="37" selection-start-line="175" selection-start-column="28" selection-end-line="175" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cms/static/templates/video/transcripts/metadata-videolist-entry.underscore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="126" selection-start-line="23" selection-start-column="126" selection-end-line="23" selection-end-column="126" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cms/static/coffee/fixtures/video/transcripts/metadata-videolist-entry.underscore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.77922076">
+          <caret line="28" column="107" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="107" />
+          <folding />
         </state>
       </provider>
     </entry>
